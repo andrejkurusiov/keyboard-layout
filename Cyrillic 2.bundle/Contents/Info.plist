@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.cyrillic</string>
+	<key>CFBundleName</key>
+	<string>Cyrillic 2</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>KLInfo_Russian</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.cyrillic.russian</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
+	</dict>
+	<key>KLInfo_Russian - Phonetic</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.cyrillic.russian-phonetic</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru</string>
+	</dict>
+	<key>KLInfo_Russian - Phonetic FI - AK</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.cyrillic.russian-phoneticfi-ak</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru-FI</string>
+	</dict>
+	<key>KLInfo_Russian - Translit FI - AK</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.cyrillic.russian-translitfi-ak</string>
+		<key>TISIntendedLanguage</key>
+		<string>ru-FI</string>
+	</dict>
+	<key>KLInfo_Ukrainian</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.cyrillic.ukrainian</string>
+		<key>TISIntendedLanguage</key>
+		<string>uk</string>
+	</dict>
+</dict>
+</plist>
