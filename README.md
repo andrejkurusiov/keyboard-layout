@@ -14,7 +14,7 @@ Here are some example of input transformations that are made (entered symbols ->
 
 ## How to install a new keyboard layout
 
-1. Copy the `.keylayout`/ `.bundle` file to the `Keyboard Layouts` folder within `/Library` or `~/Library`.
+1. Copy the `.keylayout`/ `.bundle` file to the `~/Library/Keyboard Layouts` folder.
 2. Reboot, or log out and log in again.
 3. Enable the new keyboard layout "Russian - Translit FI - AK" via _System Preferences_ › _Language & Text_ › _Input Sources_.
 
