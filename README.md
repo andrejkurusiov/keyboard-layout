@@ -1,4 +1,4 @@
-# My custom keyboard layout files for Mac OS X
+# My custom keyboard layout files for MacOS
 
 This repository contains customized "Russian - Phonetic/ Translit" keyboard layouts in `.keylayout`/ `.bundle` format, for use on MacOS.
 Layout was modified to allow entering Cyrillic symbols on both standard and Nordic (Finnish/ Swedish) keyboard like it's done in Translit (http://www.translit.ru/).
