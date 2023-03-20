@@ -8,25 +8,25 @@
 	<string>ru_us-and-fi_translit_AK</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
-	<key>KLInfo_ru-fi_transcript</key>
+	<key>KLInfo_RU-fi transcript</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.ru_translit_us-and-fi.ru-fi_transcript</string>
+		<string>org.sil.ukelele.keyboardlayout.ru_translit_us-and-fi.ru-fitranscript</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru-FI</string>
 	</dict>
-	<key>KLInfo_ru-us_transcript</key>
+	<key>KLInfo_RU-us transcript</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
 		<false/>
 		<key>TISIconIsTemplate</key>
 		<false/>
 		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.ru_translit_us-and-fi.ru-us_transcript</string>
+		<string>org.sil.ukelele.keyboardlayout.ru_translit_us-and-fi.ru-ustranscript</string>
 		<key>TISIntendedLanguage</key>
 		<string>ru-003</string>
 	</dict>
