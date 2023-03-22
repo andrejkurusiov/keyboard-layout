@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 359 on 2023-03-05 at 22:21 (EET)-->
+<!--Last edited by Ukelele version 359 on 2023-03-22 at 22:04 (EET)-->
 <!--э = je&#x000A;Э = Je&#x000A;&#x000A;ё = jo&#x000A;Ё = Jo&#x000A;&#x000A;ю = ju&#x000A;Ю = Ju&#x000A;&#x000A;я = ja&#x000A;Я = Ja&#x000A;&#x000A;ч = ch&#x000A;Ч = Ch&#x000A;&#x000A;ш = sh&#x000A;Ш = Sh&#x000A;&#x000A;щ = shh&#x000A;Щ = Shh&#x000A;&#x000A;ж = zh&#x000A;Ж = Zh&#x000A;&#x000A;ь = q&#x000A;ъ = w-->
-<keyboard group="126" id="-14692" name="ru-us_transcript" maxout="2">
+<keyboard group="126" id="-14411" name="RU-us_translit" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="16c" modifiers="f4"/>
         <layout first="18" last="18" mapSet="984" modifiers="f4"/>
