@@ -4,6 +4,8 @@ This repository contains customized Cyrillic/ Russian [transliteration](https://
 
 It started from the fact that I didn't know how to touch-type in Russian and ocasionally used Nordic (ISO) and US (ANSI) physical keyboards.
 
+[[Features](#features)] | [[Installation]](#installation) | [[Related]](#related)
+
 ## Features
 
 - Both layouts mostly follow "ГОСТ 16876-71" as implemented on e.g. [Translit](http://www.translit.ru/) web-site.
@@ -49,6 +51,7 @@ It started from the fact that I didn't know how to touch-type in Russian and oca
 ## Related
 
 - [YouType](https://github.com/freefelt/YouType): display the current keyboard layout in the status bar _as flags_ in macOS.
+- After you start using YouType, hold the `⌘` (command) button and drag the original keyboard indicator off the menu bar.
 
 ## Credits
 
